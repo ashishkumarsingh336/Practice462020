@@ -2,6 +2,7 @@ class Test{
  int i;
  String name;
  String address
+ double income;
 
 public static void main(String[] args){
 
